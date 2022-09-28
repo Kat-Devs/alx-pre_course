@@ -1,1 +1,2 @@
 Mysecond Commit
+New line
